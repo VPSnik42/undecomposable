@@ -1,0 +1,25 @@
+{
+    "name": "David Garcia",
+    "age": 104,
+    "address": {
+        "street": "Elizabeth Run",
+        "city": "East Mark",
+        "state": "Montana",
+        "zip": "88396"
+    },
+    "contact": {
+        "phone": "+1-687-886-7198x011",
+        "servicePhone": "800511435"
+    },
+    "birthday": "1921-27-01",
+    "ip": "132.234.109.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Professor society many new less spring. Term traditional son join. Brother stock claim wind assume prepare mother.",
+        "bio": "Where speech box me. Reason reveal read general everything challenge. Itself mention personal three company.\nPick result risk. Attorney building state part control individual."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
