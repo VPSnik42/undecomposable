@@ -1,0 +1,25 @@
+{
+    "name": "Kendra Carroll",
+    "age": 100,
+    "address": {
+        "street": "Joshua Valleys",
+        "city": "East Robert",
+        "state": "Oregon",
+        "zip": "57905"
+    },
+    "contact": {
+        "phone": "9158580140",
+        "servicePhone": "800590854"
+    },
+    "birthday": "1925-17-12",
+    "ip": "165.51.171.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Author key ability suggest dream character as Democrat. Main hundred exactly question reach check why century. Process when eight compare worker.",
+        "bio": "Support so party pick which couple foot head. World conference late attention shoulder. Body PM commercial system identify student various message."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
