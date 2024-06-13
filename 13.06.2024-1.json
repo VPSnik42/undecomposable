@@ -1,0 +1,25 @@
+{
+    "name": "Katie Casey",
+    "age": 62,
+    "address": {
+        "street": "Austin Ferry",
+        "city": "West Caitlinstad",
+        "state": "North Dakota",
+        "zip": "41853"
+    },
+    "contact": {
+        "phone": "527-723-4647x34699",
+        "servicePhone": "800545412"
+    },
+    "birthday": "1963-14-08",
+    "ip": "3.186.175.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Perhaps little finish move before budget question. Data thing break agree.\nDeal among data dream. Send up example last power ask son. Reduce various into alone responsibility other speech beyond.",
+        "bio": "International guess bag them wide himself wait. Total chair chair design rise.\nPolicy large gas return. Generation opportunity public claim safe. Right laugh former tax."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
