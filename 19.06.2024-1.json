@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Lopez",
+    "age": 101,
+    "address": {
+        "street": "Rivera Canyon",
+        "city": "South Adrianbury",
+        "state": "Indiana",
+        "zip": "82386"
+    },
+    "contact": {
+        "phone": "586.662.9381x505",
+        "servicePhone": "800571234"
+    },
+    "birthday": "1924-16-08",
+    "ip": "46.215.247.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Certainly some usually lay six responsibility term own. Along forward paper night Republican step.",
+        "bio": "Writer rich produce future represent.\nReduce also attorney country. Whom yourself sort face radio sea.\nBall season affect stop. Nice population people yourself another."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
