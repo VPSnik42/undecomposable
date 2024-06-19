@@ -1,0 +1,25 @@
+{
+    "name": "Tamara Williams",
+    "age": 95,
+    "address": {
+        "street": "Keith Key",
+        "city": "Jessicaville",
+        "state": "North Dakota",
+        "zip": "99402"
+    },
+    "contact": {
+        "phone": "(587)469-1744",
+        "servicePhone": "800704428"
+    },
+    "birthday": "1930-04-12",
+    "ip": "145.22.180.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Simple memory minute. Investment hope yourself. Ground method team or thing discuss.\nCourse crime reflect usually. Low move ball treat role support. Assume tend I study that cold statement.",
+        "bio": "Course reach smile southern. Leave eight big stock about thank.\nBuild professor change a class much garden. You couple your thought too station. Military party north law investment and important arm."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
