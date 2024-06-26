@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Lopez",
+    "age": 11,
+    "address": {
+        "street": "Megan Light",
+        "city": "South Andrea",
+        "state": "Maryland",
+        "zip": "26844"
+    },
+    "contact": {
+        "phone": "001-501-524-1564x2023",
+        "servicePhone": "800041877"
+    },
+    "birthday": "2014-17-01",
+    "ip": "62.189.186.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Try summer let model. Girl general ahead possible receive most.\nRight level our town turn. Since middle from simple range bar best.",
+        "bio": "Election television with. Organization discover possible staff west difficult agent. Them agree eight line happy Democrat final."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
