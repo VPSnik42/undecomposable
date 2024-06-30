@@ -1,0 +1,25 @@
+{
+    "name": "Jaime Clements",
+    "age": 100,
+    "address": {
+        "street": "Riley Trace",
+        "city": "North Darin",
+        "state": "Maine",
+        "zip": "75857"
+    },
+    "contact": {
+        "phone": "001-435-908-2929x476",
+        "servicePhone": "800673099"
+    },
+    "birthday": "1925-21-01",
+    "ip": "117.79.222.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay safe special water list than although. Peace at anything rise easy serious. Save education strong or parent. Could near arm they.",
+        "bio": "Itself local walk politics last. Majority factor line single. National full this nearly home.\nSimple several ahead manager yard.\nDifferent my song song. On drop reveal."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
