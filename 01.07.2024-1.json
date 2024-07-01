@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Weber",
+    "age": 97,
+    "address": {
+        "street": "Williams Park",
+        "city": "North Janet",
+        "state": "Hawaii",
+        "zip": "77218"
+    },
+    "contact": {
+        "phone": "568-258-8486",
+        "servicePhone": "800301909"
+    },
+    "birthday": "1928-31-03",
+    "ip": "38.45.10.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Begin wait grow if fight will. Best watch cell investment. Area sell style always sense whose outside.",
+        "bio": "Mention which support house reflect involve. Agency up test rather mention industry.\nWant citizen score environmental very wall case. World street professor believe chair trade growth."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
