@@ -1,0 +1,25 @@
+{
+    "name": "Jared Adams",
+    "age": 46,
+    "address": {
+        "street": "Alice Forge",
+        "city": "East Nicholashaven",
+        "state": "New Jersey",
+        "zip": "22433"
+    },
+    "contact": {
+        "phone": "(622)860-7163",
+        "servicePhone": "800980689"
+    },
+    "birthday": "1979-07-01",
+    "ip": "208.123.165.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Send guy measure difference by threat. Song community even local bring idea.",
+        "bio": "Official fly near. Artist television customer wide first later add. Beautiful many little recognize good early generation."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
