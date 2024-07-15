@@ -1,0 +1,25 @@
+{
+    "name": "Mitchell Lawson",
+    "age": 81,
+    "address": {
+        "street": "Spencer Squares",
+        "city": "Javiermouth",
+        "state": "Nevada",
+        "zip": "97738"
+    },
+    "contact": {
+        "phone": "(529)947-5159",
+        "servicePhone": "800212136"
+    },
+    "birthday": "1944-28-02",
+    "ip": "163.149.76.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Compare although drop issue would. If audience field interesting because soon its. Old book we.",
+        "bio": "Where probably include which also able. Degree myself important more section.\nSeason could picture crime in attorney key. Nor without address reason stuff. Keep turn garden southern."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
