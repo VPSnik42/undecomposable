@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Reeves",
+    "age": 105,
+    "address": {
+        "street": "Marie Crossroad",
+        "city": "Barneshaven",
+        "state": "Connecticut",
+        "zip": "76360"
+    },
+    "contact": {
+        "phone": "001-691-814-2714x97385",
+        "servicePhone": "800691686"
+    },
+    "birthday": "1920-13-05",
+    "ip": "213.198.240.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone call bit cold gun. Far she share.\nHappy seek court station put allow officer. Citizen until southern key senior. Kitchen modern country ball case compare produce.",
+        "bio": "Difficult personal glass capital major. Military suggest up organization with reason explain."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
