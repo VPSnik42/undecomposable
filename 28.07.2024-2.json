@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Martinez",
+    "age": 42,
+    "address": {
+        "street": "Daniel Expressway",
+        "city": "Michaelside",
+        "state": "Pennsylvania",
+        "zip": "51198"
+    },
+    "contact": {
+        "phone": "(524)421-8848",
+        "servicePhone": "800480472"
+    },
+    "birthday": "1983-29-04",
+    "ip": "183.8.80.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Important meeting here. But technology property recent wall.\nFocus forward agreement eat. Off then natural nice give form. Continue work describe marriage would.",
+        "bio": "Fly space which finally treatment bar. Knowledge opportunity continue name hair well church cause. Art break approach. Big end north career occur girl."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
