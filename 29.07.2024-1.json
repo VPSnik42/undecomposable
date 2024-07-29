@@ -1,0 +1,25 @@
+{
+    "name": "Mary Fuller",
+    "age": 12,
+    "address": {
+        "street": "Daniel Rapid",
+        "city": "New Amy",
+        "state": "Oregon",
+        "zip": "76316"
+    },
+    "contact": {
+        "phone": "+1-853-752-9913x473",
+        "servicePhone": "800391911"
+    },
+    "birthday": "2013-05-05",
+    "ip": "158.130.129.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Story four throughout meet.\nPlayer money plant firm. Structure that thing describe.\nShoulder not bar close music television develop.",
+        "bio": "Structure girl country public today theory sister. Section assume place pay lawyer tree government.\nCultural some information evidence question market. When him opportunity key."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
