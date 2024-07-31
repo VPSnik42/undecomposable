@@ -1,0 +1,25 @@
+{
+    "name": "David Sharp",
+    "age": 33,
+    "address": {
+        "street": "Brown Orchard",
+        "city": "Stephanieburgh",
+        "state": "Michigan",
+        "zip": "08419"
+    },
+    "contact": {
+        "phone": "001-641-828-1305x9227",
+        "servicePhone": "800301083"
+    },
+    "birthday": "1992-23-01",
+    "ip": "192.67.88.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Mind manager debate. Wife pull side effort board president room. Up get threat world. Green trial significant.\nBuy occur need. Big attack set. Professional anyone why economy reveal.",
+        "bio": "Show consider film certain think full. Congress poor traditional evidence rather protect factor. Product two major pattern learn or always."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
