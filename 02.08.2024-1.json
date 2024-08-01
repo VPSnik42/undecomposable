@@ -1,0 +1,25 @@
+{
+    "name": "Adriana Ewing",
+    "age": 20,
+    "address": {
+        "street": "Walter Viaduct",
+        "city": "Robinton",
+        "state": "Indiana",
+        "zip": "72511"
+    },
+    "contact": {
+        "phone": "686-735-8882x9178",
+        "servicePhone": "800425157"
+    },
+    "birthday": "2005-23-04",
+    "ip": "175.67.99.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture result brother adult rich. Ask college economy source win. Name door color conference during gas.\nToday dinner article put mother example. The environmental only first special.",
+        "bio": "From character mission resource today man. But if space account performance tax fine want. Draw foreign large list look."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
