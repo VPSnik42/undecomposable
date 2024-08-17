@@ -1,0 +1,25 @@
+{
+    "name": "Evan Anderson",
+    "age": 46,
+    "address": {
+        "street": "Diaz Lights",
+        "city": "Port Susanland",
+        "state": "Utah",
+        "zip": "71685"
+    },
+    "contact": {
+        "phone": "(563)904-5092x00201",
+        "servicePhone": "800146169"
+    },
+    "birthday": "1979-11-10",
+    "ip": "5.110.30.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Look area practice security. Child right not especially. Begin voice hear mean.\nToward one investment peace small weight. Different let above argue common office.",
+        "bio": "Movement officer end second police policy my. Term discussion whole detail although. True piece character amount hold specific."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
