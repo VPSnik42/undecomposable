@@ -1,0 +1,25 @@
+{
+    "name": "Laura Dickerson",
+    "age": 85,
+    "address": {
+        "street": "Abbott Lock",
+        "city": "Nicolasview",
+        "state": "West Virginia",
+        "zip": "85541"
+    },
+    "contact": {
+        "phone": "411.638.3140x97265",
+        "servicePhone": "800303237"
+    },
+    "birthday": "1940-21-04",
+    "ip": "46.238.181.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen local social story least interest. Mention growth yard television.\nModern church student receive hair series week. Growth identify while then network. Today hot yet half health customer plant.",
+        "bio": "Ask outside create perform value think station."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
