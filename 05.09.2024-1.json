@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Howard",
+    "age": 80,
+    "address": {
+        "street": "Alex Alley",
+        "city": "Armstrongmouth",
+        "state": "Washington",
+        "zip": "18327"
+    },
+    "contact": {
+        "phone": "(738)773-7373x1718",
+        "servicePhone": "800609793"
+    },
+    "birthday": "1945-18-03",
+    "ip": "153.43.139.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Mention establish pattern student. Arrive carry Democrat able and she money past.\nHere only brother bring serve. Thought writer case happen lot explain. Official when authority.",
+        "bio": "Because item meeting employee unit class use. Discover wonder study memory. Best impact cause want person."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
