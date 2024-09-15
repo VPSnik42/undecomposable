@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Fry",
+    "age": 43,
+    "address": {
+        "street": "Andrew Dale",
+        "city": "Benjaminstad",
+        "state": "Montana",
+        "zip": "26274"
+    },
+    "contact": {
+        "phone": "001-924-646-5375x5014",
+        "servicePhone": "800564416"
+    },
+    "birthday": "1982-09-12",
+    "ip": "114.245.248.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Adult station walk door. Option international before source.\nMedical would his may threat. Them could some. Drop group director thing control reach. Together I staff country step most significant.",
+        "bio": "Any international choose writer surface subject collection. Catch realize magazine situation buy without."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
