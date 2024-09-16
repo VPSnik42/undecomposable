@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Donovan",
+    "age": 82,
+    "address": {
+        "street": "Hines Harbors",
+        "city": "Walkerchester",
+        "state": "Arkansas",
+        "zip": "78224"
+    },
+    "contact": {
+        "phone": "5074144456",
+        "servicePhone": "800250732"
+    },
+    "birthday": "1943-30-10",
+    "ip": "187.205.72.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Support cover media tree rule wall. That your glass say. Hot admit force hair agreement owner late.",
+        "bio": "Interview tough board. Local sell Mr number. Join forget money staff."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
