@@ -1,0 +1,25 @@
+{
+    "name": "Paige Perez",
+    "age": 9,
+    "address": {
+        "street": "Elizabeth Hill",
+        "city": "North Roberttown",
+        "state": "New Hampshire",
+        "zip": "07835"
+    },
+    "contact": {
+        "phone": "241.338.9025x33496",
+        "servicePhone": "800112433"
+    },
+    "birthday": "2016-26-03",
+    "ip": "79.156.191.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Develop whole project light house doctor half. Turn worker consumer magazine be.\nStatement chair general try. See bar as sometimes maybe generation.",
+        "bio": "Land region risk same. Message young television firm ready popular poor. Audience coach network yeah year tree somebody.\nFirst ready another send those. Film anyone professional look player."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
