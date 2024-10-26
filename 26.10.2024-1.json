@@ -1,0 +1,25 @@
+{
+    "name": "Eric Cortez",
+    "age": 102,
+    "address": {
+        "street": "Suarez Brook",
+        "city": "Walterborough",
+        "state": "South Dakota",
+        "zip": "38942"
+    },
+    "contact": {
+        "phone": "+1-664-240-8703x229",
+        "servicePhone": "800106694"
+    },
+    "birthday": "1923-14-12",
+    "ip": "195.139.155.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Subject you agreement up enough itself. Teach size Mr offer energy animal girl write.\nCould involve arm recent. Expect phone kid travel goal financial. Local large same similar control phone lawyer.",
+        "bio": "Once budget thing too capital around. Nor evening inside hotel red size. Help story move garden two price speech.\nBelieve herself anyone our care."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
