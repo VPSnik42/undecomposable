@@ -1,0 +1,25 @@
+{
+    "name": "Connor Foster",
+    "age": 4,
+    "address": {
+        "street": "Carroll Springs",
+        "city": "Port Monica",
+        "state": "Wisconsin",
+        "zip": "61531"
+    },
+    "contact": {
+        "phone": "625.896.1257x08271",
+        "servicePhone": "800882363"
+    },
+    "birthday": "2021-16-02",
+    "ip": "96.139.49.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Success thing final recognize watch environment. To yes argue. Edge weight determine before great.",
+        "bio": "Season perhaps animal rich.\nCan so different thousand. Reason head leg concern game little. All answer year especially play room chance. Section pressure beat official."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
