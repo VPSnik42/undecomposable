@@ -1,0 +1,25 @@
+{
+    "name": "Christian Mcintyre",
+    "age": 85,
+    "address": {
+        "street": "George Dam",
+        "city": "East Brettland",
+        "state": "Michigan",
+        "zip": "10703"
+    },
+    "contact": {
+        "phone": "897.421.7536x24392",
+        "servicePhone": "800206882"
+    },
+    "birthday": "1940-07-09",
+    "ip": "49.57.3.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Window program conference society value town. Go American develop local.\nYes share story million collection popular. Goal get nice vote meet.\nChoose full foot. Exist floor prevent ball heavy learn.",
+        "bio": "Popular risk central boy itself.\nUntil country garden or rule red.\nLow today field both mention fast up huge. Set in see view American where other. Law raise order everyone listen."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
