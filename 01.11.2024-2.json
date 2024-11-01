@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Bradley",
+    "age": 6,
+    "address": {
+        "street": "Michelle Skyway",
+        "city": "East Brandon",
+        "state": "Texas",
+        "zip": "70753"
+    },
+    "contact": {
+        "phone": "(539)748-7799x399",
+        "servicePhone": "800919486"
+    },
+    "birthday": "2019-07-07",
+    "ip": "108.115.57.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Way painting possible significant.\nToday cut by history. Stop lose police.\nView growth Democrat though business. Last sign well yeah war and.",
+        "bio": "Others cold watch professional. Although drive ever model help husband series. Trouble itself ask friend couple.\nScene people almost choose allow wonder. Art down worker."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
