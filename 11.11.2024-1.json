@@ -1,0 +1,25 @@
+{
+    "name": "Kiara Bautista",
+    "age": 79,
+    "address": {
+        "street": "Brandon Harbor",
+        "city": "Lisastad",
+        "state": "Nebraska",
+        "zip": "91883"
+    },
+    "contact": {
+        "phone": "(339)380-7334",
+        "servicePhone": "800827181"
+    },
+    "birthday": "1946-11-12",
+    "ip": "151.209.188.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Born democratic require research. Energy play recently choice community sea shake. Free environment sure investment budget.",
+        "bio": "Machine little term throughout. Home reason such over respond while. Not claim college also movie daughter.\nStep process property leave notice. Thank stage same world."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
