@@ -1,0 +1,25 @@
+{
+    "name": "Jerome Collins",
+    "age": 46,
+    "address": {
+        "street": "Johnson Common",
+        "city": "Grantside",
+        "state": "Michigan",
+        "zip": "64750"
+    },
+    "contact": {
+        "phone": "+1-612-838-2548",
+        "servicePhone": "800577186"
+    },
+    "birthday": "1979-14-11",
+    "ip": "61.248.90.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Performance baby baby century left can music around. Skill man police dog cost.\nAgree game kitchen. Learn decade defense city thing yard whatever. Hair since skill what need new.",
+        "bio": "Himself hour several work hot really. Smile radio word pass industry whose. Should southern pretty. Big wind try meet drug year when."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
