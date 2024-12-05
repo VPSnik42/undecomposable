@@ -1,0 +1,25 @@
+{
+    "name": "Felicia Hall",
+    "age": 52,
+    "address": {
+        "street": "Harris Fall",
+        "city": "Schmidtchester",
+        "state": "Wyoming",
+        "zip": "04468"
+    },
+    "contact": {
+        "phone": "+1-539-986-6475",
+        "servicePhone": "800652161"
+    },
+    "birthday": "1973-09-05",
+    "ip": "15.213.204.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Western prepare girl.\nLate song my middle lay. All according room under. Magazine apply subject price upon friend. Describe provide just college.",
+        "bio": "Certain card beautiful hard until Mr eight. Light quite talk argue feeling over. You certain serve pick argue newspaper. Item avoid really and close movie rest."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
