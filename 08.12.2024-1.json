@@ -1,0 +1,25 @@
+{
+    "name": "Angela Wheeler",
+    "age": 89,
+    "address": {
+        "street": "Fletcher Knolls",
+        "city": "Carterchester",
+        "state": "New Jersey",
+        "zip": "94963"
+    },
+    "contact": {
+        "phone": "001-213-312-6432x048",
+        "servicePhone": "800172999"
+    },
+    "birthday": "1936-07-02",
+    "ip": "174.111.133.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Develop successful major our could risk.\nEffort ready door season he my. Court society avoid discuss teach four to. Future behind across safe ground.\nAgency address source.",
+        "bio": "Visit concern because piece short interesting staff stand. Morning western almost traditional."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
