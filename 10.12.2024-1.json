@@ -1,0 +1,25 @@
+{
+    "name": "Joel Cook",
+    "age": 12,
+    "address": {
+        "street": "Melanie Extension",
+        "city": "East Kimberlyport",
+        "state": "Maine",
+        "zip": "02382"
+    },
+    "contact": {
+        "phone": "987.384.6442x61248",
+        "servicePhone": "800937107"
+    },
+    "birthday": "2013-08-12",
+    "ip": "193.157.133.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Likely soon all early. Commercial fall southern staff rich. With computer than full. Without consider different everyone.\nStreet direction nature bad source. Attention store during black.",
+        "bio": "Attack I continue person head environment hand. Room strong lot example Congress human in it. Huge away wonder religious over real."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
