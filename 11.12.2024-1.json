@@ -1,0 +1,25 @@
+{
+    "name": "Mary Smith",
+    "age": 84,
+    "address": {
+        "street": "Angelica Fork",
+        "city": "Lake Michelle",
+        "state": "Minnesota",
+        "zip": "38618"
+    },
+    "contact": {
+        "phone": "(733)840-5101",
+        "servicePhone": "800123931"
+    },
+    "birthday": "1941-23-02",
+    "ip": "203.57.47.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Occur together traditional still. Green past offer government meeting beyond. Glass together hand.",
+        "bio": "Yeah step her mother campaign respond. Together card collection others time man.\nOutside him thing. Let least style process meeting. Form watch such discuss."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
