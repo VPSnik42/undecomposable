@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Hernandez",
+    "age": 40,
+    "address": {
+        "street": "Simpson Ville",
+        "city": "Port Jasonport",
+        "state": "South Carolina",
+        "zip": "60957"
+    },
+    "contact": {
+        "phone": "582-620-7953",
+        "servicePhone": "800765696"
+    },
+    "birthday": "1985-06-12",
+    "ip": "166.130.246.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Above condition between head the power. Whether individual ready minute knowledge news most beyond. Reality myself make send.\nSite result cover too hand. Produce visit difficult arm.",
+        "bio": "Mr effect knowledge total action type. Past weight operation contain. Himself raise number education option religious three decade."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
