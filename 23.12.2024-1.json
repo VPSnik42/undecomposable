@@ -1,0 +1,25 @@
+{
+    "name": "Gina Tanner",
+    "age": 1,
+    "address": {
+        "street": "Brandon Streets",
+        "city": "Richardshire",
+        "state": "Wisconsin",
+        "zip": "36763"
+    },
+    "contact": {
+        "phone": "001-284-946-0097x123",
+        "servicePhone": "800090030"
+    },
+    "birthday": "2024-28-05",
+    "ip": "173.236.241.232",
+    "foo": "bar",
+    "profile": {
+        "about": "President forget hope few person tax pull write. Establish yard inside series prevent notice. Owner sound social send.",
+        "bio": "Until not according responsibility. Be color detail least respond. Fight pattern shoulder PM explain see."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
