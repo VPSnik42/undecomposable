@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Alexander",
+    "age": 14,
+    "address": {
+        "street": "Thomas Island",
+        "city": "Myersview",
+        "state": "Maryland",
+        "zip": "96353"
+    },
+    "contact": {
+        "phone": "428.452.2974",
+        "servicePhone": "800779061"
+    },
+    "birthday": "2011-25-12",
+    "ip": "3.73.105.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Wide age these candidate government network. Such travel whom because remain occur. Serve standard any pressure modern population.",
+        "bio": "Type capital recently billion there. Television baby information. Fast check their while.\nLay body reflect. Pm another now born fall agency."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
