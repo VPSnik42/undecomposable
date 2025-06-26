@@ -1,0 +1,25 @@
+{
+    "name": "Angel Anderson",
+    "age": 78,
+    "address": {
+        "street": "Brett Gateway",
+        "city": "North Shannon",
+        "state": "New York",
+        "zip": "40478"
+    },
+    "contact": {
+        "phone": "8408079289",
+        "servicePhone": "800251696"
+    },
+    "birthday": "1947-17-06",
+    "ip": "118.218.84.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Tough measure win star. Best save economic pass question charge financial. Skin political institution really break.",
+        "bio": "Opportunity usually challenge store term. Follow career heart position wait professor government. Between win daughter benefit owner."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
