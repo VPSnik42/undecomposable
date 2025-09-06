@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Lane",
+    "age": 94,
+    "address": {
+        "street": "Zachary Walks",
+        "city": "New Danielleside",
+        "state": "New Hampshire",
+        "zip": "18137"
+    },
+    "contact": {
+        "phone": "786.813.4019",
+        "servicePhone": "800530583"
+    },
+    "birthday": "1931-19-02",
+    "ip": "43.187.19.112",
+    "foo": "bar",
+    "profile": {
+        "about": "End price trouble fight wall culture man.\nHold trip able land.\nSouthern writer answer spring entire. From especially stay dream where. Argue it pressure collection.",
+        "bio": "Glass camera son argue science bill. Wait blue card avoid learn.\nGet executive commercial begin story institution. Look firm without area."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
