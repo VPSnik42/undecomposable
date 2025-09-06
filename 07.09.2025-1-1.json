@@ -1,0 +1,25 @@
+{
+    "name": "Alejandra Clark",
+    "age": 77,
+    "address": {
+        "street": "Bennett Tunnel",
+        "city": "East Jose",
+        "state": "New Hampshire",
+        "zip": "15214"
+    },
+    "contact": {
+        "phone": "923.617.7397x41388",
+        "servicePhone": "800893971"
+    },
+    "birthday": "1948-27-08",
+    "ip": "176.140.155.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Take claim together main step only. Become close reality member couple number along. Would toward population enough among participant future game.",
+        "bio": "Once professor visit run do laugh develop four. Firm true our ago each. To property your camera thus section."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
