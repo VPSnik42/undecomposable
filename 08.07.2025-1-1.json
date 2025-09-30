@@ -1,0 +1,25 @@
+{
+    "name": "Paul Powers",
+    "age": 77,
+    "address": {
+        "street": "Skinner Mall",
+        "city": "New Marie",
+        "state": "Nebraska",
+        "zip": "92452"
+    },
+    "contact": {
+        "phone": "987-408-2679",
+        "servicePhone": "800058749"
+    },
+    "birthday": "1948-11-06",
+    "ip": "47.137.184.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Speak catch rich go. Task assume quickly manage say soon six provide.",
+        "bio": "Different skin military movie sister heart until. Even road dinner herself vote treat college. Education cultural likely tend."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}

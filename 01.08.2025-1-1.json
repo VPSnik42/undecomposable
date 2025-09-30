@@ -1,0 +1,25 @@
+{
+    "name": "Ethan Hamilton",
+    "age": 65,
+    "address": {
+        "street": "Jeffery Knoll",
+        "city": "North Jordanton",
+        "state": "Hawaii",
+        "zip": "51715"
+    },
+    "contact": {
+        "phone": "(371)954-6257",
+        "servicePhone": "800599355"
+    },
+    "birthday": "1960-23-04",
+    "ip": "165.128.28.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Bar quality charge blue serious. Product school they far necessary. Against foot interest human cost cause.",
+        "bio": "Feel red opportunity exactly building. Subject else fine report spring they scene court. Success send than radio across will skill member."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
