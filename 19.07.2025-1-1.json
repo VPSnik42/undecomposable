@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Davis",
+    "age": 41,
+    "address": {
+        "street": "Crane Island",
+        "city": "New Jeffreyburgh",
+        "state": "North Carolina",
+        "zip": "11360"
+    },
+    "contact": {
+        "phone": "5828130815",
+        "servicePhone": "800131864"
+    },
+    "birthday": "1984-25-12",
+    "ip": "166.133.68.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Factor hear course car total. Deal wide soldier ball white.\nMove language music form cause rise. Despite certain real. Concern right think example somebody.\nWhat some party husband.",
+        "bio": "Doctor morning most child. In indeed fire third set. Anyone discover ground fill.\nKitchen art baby how theory Congress fight treat. Care positive history reality growth."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}

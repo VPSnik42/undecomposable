@@ -1,0 +1,25 @@
+{
+    "name": "Cody Valdez",
+    "age": 27,
+    "address": {
+        "street": "Phillip Groves",
+        "city": "Harrishaven",
+        "state": "Connecticut",
+        "zip": "87198"
+    },
+    "contact": {
+        "phone": "947-568-8687x748",
+        "servicePhone": "800266717"
+    },
+    "birthday": "1998-01-04",
+    "ip": "62.184.59.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Past smile child argue. Say stop poor stay service build.\nMean check necessary time whole hold. Often floor difference economy.",
+        "bio": "No other coach statement follow yard. Some state record bring."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}

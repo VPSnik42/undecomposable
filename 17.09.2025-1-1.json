@@ -1,0 +1,25 @@
+{
+    "name": "Angela Ruiz",
+    "age": 70,
+    "address": {
+        "street": "Christina Manor",
+        "city": "Christybury",
+        "state": "Arizona",
+        "zip": "87160"
+    },
+    "contact": {
+        "phone": "+1-890-321-2712x69556",
+        "servicePhone": "800697284"
+    },
+    "birthday": "1955-07-01",
+    "ip": "157.233.134.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Attack every through. Yard capital until need. Nature fire economy mouth manage movie reduce west.\nGrow compare turn put herself. Toward bring skill PM. Space against nation series.",
+        "bio": "Call enjoy sense party four different those. Right voice onto if some thought it.\nImprove threat fill those so. Already by stage probably condition."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

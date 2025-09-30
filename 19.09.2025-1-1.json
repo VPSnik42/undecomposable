@@ -1,0 +1,25 @@
+{
+    "name": "Steven Cox",
+    "age": 57,
+    "address": {
+        "street": "Kevin Centers",
+        "city": "Singhhaven",
+        "state": "Iowa",
+        "zip": "28821"
+    },
+    "contact": {
+        "phone": "8535216417",
+        "servicePhone": "800086877"
+    },
+    "birthday": "1968-13-07",
+    "ip": "95.56.96.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Plant father federal think herself off wide. Fact political from rock institution. Floor tree part last born black success growth. Sure second nation house yard visit young.",
+        "bio": "Plan company service everyone upon clearly expert age. Movie interest law us less. Down spring mouth want politics go poor. Play concern career yes specific sometimes."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

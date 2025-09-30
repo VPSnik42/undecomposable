@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Rogers",
+    "age": 1,
+    "address": {
+        "street": "Davis Lakes",
+        "city": "Sherylbury",
+        "state": "Minnesota",
+        "zip": "05055"
+    },
+    "contact": {
+        "phone": "+1-687-466-1599x27168",
+        "servicePhone": "800289853"
+    },
+    "birthday": "2024-20-02",
+    "ip": "199.84.227.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Customer technology shake my.\nPass recognize actually difference. Himself call threat full.",
+        "bio": "Three house might manager space. Consumer price mean address.\nPolicy growth present church. Power in his clear.\nAttack fire analysis.\nOfficer listen current station institution. Part bar east yard."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}

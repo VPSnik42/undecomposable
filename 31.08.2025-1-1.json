@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Stevens",
+    "age": 7,
+    "address": {
+        "street": "Fowler Port",
+        "city": "Brandonfurt",
+        "state": "Vermont",
+        "zip": "01698"
+    },
+    "contact": {
+        "phone": "+1-289-378-9196",
+        "servicePhone": "800731650"
+    },
+    "birthday": "2018-13-11",
+    "ip": "6.192.23.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Attack pull fine light race head alone significant. Those dinner every explain let short. Budget human successful board these. Store where south teach station.",
+        "bio": "Data product mouth mind else any without. Agency action develop probably gun our sea."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
