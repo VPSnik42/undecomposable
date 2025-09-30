@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Romero",
+    "age": 59,
+    "address": {
+        "street": "Michael Harbor",
+        "city": "Allisonshire",
+        "state": "South Carolina",
+        "zip": "45065"
+    },
+    "contact": {
+        "phone": "542.559.1229",
+        "servicePhone": "800830416"
+    },
+    "birthday": "1966-15-04",
+    "ip": "128.187.158.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Get book head relate speak care. Present impact current many. Education house although method.\nOil trade before bring.",
+        "bio": "Contain name might nothing.\nAuthor her real boy third one. Mouth space product first price. Wide public boy various trip key."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
