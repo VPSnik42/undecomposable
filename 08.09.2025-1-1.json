@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Wilson",
+    "age": 26,
+    "address": {
+        "street": "Timothy Overpass",
+        "city": "Lake Robertfort",
+        "state": "New York",
+        "zip": "08199"
+    },
+    "contact": {
+        "phone": "206-241-3610x9114",
+        "servicePhone": "800300853"
+    },
+    "birthday": "1999-02-09",
+    "ip": "99.248.157.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Bar possible government nothing always. Street why nice individual practice affect product. Join just line market office provide leave.",
+        "bio": "Bag same north young cold. Across left water those.\nInterview minute professional industry month. Sister join both race economic commercial toward. Defense church matter gas simple effect."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
