@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Roberts",
+    "age": 87,
+    "address": {
+        "street": "Donald Mission",
+        "city": "West Michelle",
+        "state": "Louisiana",
+        "zip": "07399"
+    },
+    "contact": {
+        "phone": "764.584.7871x4370",
+        "servicePhone": "800667158"
+    },
+    "birthday": "1938-12-09",
+    "ip": "138.248.31.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Tend building place develop PM one. Store moment red dream ball recently.\nLater behavior describe. At she teacher after result to someone. After mind within change agreement.",
+        "bio": "Tough rather color language executive dark. Rise care information heavy like. Rule physical truth already again.\nLoss bill loss agent. Let single property fill job maintain."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
