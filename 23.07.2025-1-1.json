@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Johnson",
+    "age": 98,
+    "address": {
+        "street": "Garcia Oval",
+        "city": "Hernandezberg",
+        "state": "Nebraska",
+        "zip": "54944"
+    },
+    "contact": {
+        "phone": "001-736-699-6242x96067",
+        "servicePhone": "800638036"
+    },
+    "birthday": "1927-26-12",
+    "ip": "201.123.238.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Pick also success provide employee place oil.\nQuite western when matter everything speech identify. Amount dark act three its.\nPaper write item rock ago. People some author day well page get no.",
+        "bio": "Charge just operation knowledge this reality. Far turn fear investment especially general when. Election large test quickly crime major.\nFood must one. Number develop institution say indicate."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Michael Shah",
+    "age": 45,
+    "address": {
+        "street": "Erickson Mountains",
+        "city": "Phillipsbury",
+        "state": "Illinois",
+        "zip": "73718"
+    },
+    "contact": {
+        "phone": "001-626-818-2903x2145",
+        "servicePhone": "800353734"
+    },
+    "birthday": "1980-17-05",
+    "ip": "89.102.123.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular goal around first. Identify hope order.\nTest morning sure sea improve. But morning rate like.\nHusband realize positive alone affect design. Year lead cost election learn throw.",
+        "bio": "Sometimes money research before score information. Situation year name approach lose born. Successful though capital necessary all."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
