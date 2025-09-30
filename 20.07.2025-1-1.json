@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Mills",
+    "age": 33,
+    "address": {
+        "street": "Miller Groves",
+        "city": "West Mitchell",
+        "state": "Hawaii",
+        "zip": "06718"
+    },
+    "contact": {
+        "phone": "862.304.1261",
+        "servicePhone": "800646057"
+    },
+    "birthday": "1992-28-10",
+    "ip": "68.148.109.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Like significant worker car could usually. State degree difficult night develop data. Item picture phone position.\nOut painting foot yard agree ahead. In week how however physical.",
+        "bio": "Cause everyone teach figure continue usually. Edge economy hear upon. Surface then material fly security."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}

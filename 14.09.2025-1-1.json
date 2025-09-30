@@ -1,0 +1,25 @@
+{
+    "name": "John Reed",
+    "age": 27,
+    "address": {
+        "street": "Tyler Dam",
+        "city": "Port Leslie",
+        "state": "Alabama",
+        "zip": "31647"
+    },
+    "contact": {
+        "phone": "434-952-2530",
+        "servicePhone": "800213458"
+    },
+    "birthday": "1998-07-07",
+    "ip": "134.177.80.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Soldier Congress design and herself idea. What development life. Number manager true your laugh.\nAuthor beyond recently difference evening. Fine probably subject paper write job structure.",
+        "bio": "Result interview long mean clear. Put catch draw there."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
