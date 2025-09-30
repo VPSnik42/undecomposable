@@ -1,0 +1,25 @@
+{
+    "name": "David Norris",
+    "age": 15,
+    "address": {
+        "street": "Miller Brooks",
+        "city": "Port Melissafurt",
+        "state": "South Dakota",
+        "zip": "47176"
+    },
+    "contact": {
+        "phone": "001-242-700-9422",
+        "servicePhone": "800585085"
+    },
+    "birthday": "2010-01-02",
+    "ip": "130.142.111.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Side sport pick image Mr window. Chair building as door the role.",
+        "bio": "Real law forward rate decade later measure scene. Because thousand save late bag explain single. Deal assume data present. Imagine political team try."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}

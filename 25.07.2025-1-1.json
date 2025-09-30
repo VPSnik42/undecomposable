@@ -1,0 +1,25 @@
+{
+    "name": "Cody Brown",
+    "age": 12,
+    "address": {
+        "street": "Regina Lodge",
+        "city": "Melissaburgh",
+        "state": "Arizona",
+        "zip": "52897"
+    },
+    "contact": {
+        "phone": "001-621-761-4932x560",
+        "servicePhone": "800216622"
+    },
+    "birthday": "2013-28-09",
+    "ip": "169.223.1.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Star college give white single as rock surface. Necessary up community particularly perform.\nShake leader tough hand. Notice reach safe risk huge.",
+        "bio": "Son pattern case never focus car. Mind green huge hope letter whose president.\nEight about stand wait. Own better fine individual occur. Approach few morning administration."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}

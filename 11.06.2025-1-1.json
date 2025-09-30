@@ -1,0 +1,25 @@
+{
+    "name": "Sean Soto",
+    "age": 97,
+    "address": {
+        "street": "Melanie Island",
+        "city": "North Timothy",
+        "state": "Montana",
+        "zip": "58759"
+    },
+    "contact": {
+        "phone": "823-280-3113x902",
+        "servicePhone": "800225198"
+    },
+    "birthday": "1928-29-04",
+    "ip": "73.63.231.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Yes subject figure still stop. Simple allow take return near.",
+        "bio": "Father pass threat rich ok religious. Analysis evidence force research why on around.\nSuch sea billion happen. Relationship receive within while learn. So a garden detail different employee."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

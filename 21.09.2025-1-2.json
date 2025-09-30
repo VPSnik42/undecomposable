@@ -1,0 +1,25 @@
+{
+    "name": "Michael Bell",
+    "age": 109,
+    "address": {
+        "street": "Taylor Wells",
+        "city": "Whiteland",
+        "state": "New York",
+        "zip": "12459"
+    },
+    "contact": {
+        "phone": "(685)957-0101x7526",
+        "servicePhone": "800389247"
+    },
+    "birthday": "1916-06-11",
+    "ip": "22.35.120.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Agent little strong late. Decide enough on manager speech. Else would collection month. None young third determine cost him wide.",
+        "bio": "Yet computer star. Office late could in father result. Ever act what. Make be home economy forward wish bad."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
