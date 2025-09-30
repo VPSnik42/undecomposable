@@ -1,0 +1,25 @@
+{
+    "name": "William Mejia",
+    "age": 5,
+    "address": {
+        "street": "Smith Field",
+        "city": "West Melissa",
+        "state": "Idaho",
+        "zip": "91728"
+    },
+    "contact": {
+        "phone": "357.246.5888x70862",
+        "servicePhone": "800002131"
+    },
+    "birthday": "2020-27-01",
+    "ip": "204.238.203.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Treat allow many blood far cause. How as them author.\nSure girl land table. Hotel book risk until month visit. Blood PM grow.\nMake billion Congress. These operation face east throw make part.",
+        "bio": "Write subject remember go.\nLow center hand happy care former. Concern world lawyer hold one sea evening difference. Produce before address consumer risk game. Score whether building hair."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
