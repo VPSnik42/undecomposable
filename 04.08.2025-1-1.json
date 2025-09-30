@@ -1,0 +1,25 @@
+{
+    "name": "Adam Warren",
+    "age": 25,
+    "address": {
+        "street": "Ramos Causeway",
+        "city": "Port Michellefurt",
+        "state": "Utah",
+        "zip": "08953"
+    },
+    "contact": {
+        "phone": "+1-614-744-0962x054",
+        "servicePhone": "800844206"
+    },
+    "birthday": "2000-18-09",
+    "ip": "187.75.32.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening paper heavy trip sea her believe way. Away some similar. Crime give must pull reveal.",
+        "bio": "Customer blood behind rock. Democratic property tonight plant throughout. Across finally street old.\nAnimal play anyone. Voice full process reach author small. Friend easy in hospital end."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}

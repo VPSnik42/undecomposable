@@ -1,0 +1,25 @@
+{
+    "name": "Allen Page",
+    "age": 99,
+    "address": {
+        "street": "Gay Greens",
+        "city": "Port Adam",
+        "state": "South Carolina",
+        "zip": "91847"
+    },
+    "contact": {
+        "phone": "(647)888-0184x50688",
+        "servicePhone": "800711301"
+    },
+    "birthday": "1926-03-07",
+    "ip": "210.109.237.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Think long various short dark develop. Produce only others these interview PM responsibility.\nMovement project page book.\nOrganization like check be.",
+        "bio": "Hear reduce than pay discover garden drop. Benefit believe social should.\nHusband loss billion space. Find idea remain. Tend add behind this well member soldier."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
