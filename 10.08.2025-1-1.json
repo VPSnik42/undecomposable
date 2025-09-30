@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Calhoun",
+    "age": 36,
+    "address": {
+        "street": "Patel Mountain",
+        "city": "Richardsonfurt",
+        "state": "Illinois",
+        "zip": "12935"
+    },
+    "contact": {
+        "phone": "(692)444-3192x17037",
+        "servicePhone": "800651532"
+    },
+    "birthday": "1989-25-05",
+    "ip": "34.93.157.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Someone bill office job thus rise owner. Professor always nature body education range. Party subject rather loss finish manager actually.",
+        "bio": "Discuss radio top three reality. Example rule human.\nStudent specific cause lose nor. Organization consumer at attention.\nEnergy change pretty approach theory."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
