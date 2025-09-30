@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Chandler",
+    "age": 105,
+    "address": {
+        "street": "Wallace Circles",
+        "city": "New Vanessashire",
+        "state": "Missouri",
+        "zip": "99916"
+    },
+    "contact": {
+        "phone": "001-200-580-5193x21109",
+        "servicePhone": "800389152"
+    },
+    "birthday": "1920-28-05",
+    "ip": "214.152.103.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Region to month reflect large nature. Item bit be single miss various first.\nFirm son up popular writer life. Fight pretty occur marriage color industry.",
+        "bio": "Base every able economy or property. Seat table check level.\nHead conference method environmental themselves. Black think may identify black industry. Eat knowledge also us."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
