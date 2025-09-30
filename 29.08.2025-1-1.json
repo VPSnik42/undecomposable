@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Thomas Hayes",
+    "age": 109,
+    "address": {
+        "street": "Trevor Views",
+        "city": "Donovanstad",
+        "state": "Washington",
+        "zip": "47544"
+    },
+    "contact": {
+        "phone": "001-741-614-9175",
+        "servicePhone": "800512873"
+    },
+    "birthday": "1916-28-12",
+    "ip": "94.64.8.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Begin almost our mention exist player game.\nStrategy despite anyone kitchen network here beat. Happen black affect send key recognize.",
+        "bio": "Usually media three question reveal eight discussion. Seem white traditional. Record describe son choose war.\nBehavior heavy data role. House perhaps world out piece police."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
