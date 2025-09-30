@@ -1,0 +1,25 @@
+{
+    "name": "Steven Jackson",
+    "age": 46,
+    "address": {
+        "street": "Judy Plaza",
+        "city": "East Alan",
+        "state": "Rhode Island",
+        "zip": "20602"
+    },
+    "contact": {
+        "phone": "(436)532-6790",
+        "servicePhone": "800556455"
+    },
+    "birthday": "1979-20-12",
+    "ip": "184.254.152.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Plan new must current. Decide it sort set white.\nAudience bag new field. Movement themselves body significant specific six through PM. Herself so social power student computer seem.",
+        "bio": "Republican few police defense least. Might unit production affect. Term southern everything film role response. Try stop since poor contain conference."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
