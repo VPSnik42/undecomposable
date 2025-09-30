@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Wells",
+    "age": 92,
+    "address": {
+        "street": "Debra Junction",
+        "city": "South Charlesland",
+        "state": "Oklahoma",
+        "zip": "66233"
+    },
+    "contact": {
+        "phone": "867.467.7476",
+        "servicePhone": "800043833"
+    },
+    "birthday": "1933-18-11",
+    "ip": "179.143.169.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Air without step. Game simply must even sort college treat. Professional challenge conference same travel specific perhaps.",
+        "bio": "Culture gun impact. Safe morning away soon particular.\nAny various business church woman. Note that ask anything turn teach.\nStep business play. Strong evidence show tough trip."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
